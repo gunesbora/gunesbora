@@ -2,11 +2,11 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front-End and Back-End
 - 📫 How to reach me gunesbora80@gmail.com
-<img src="https://github-readme-stats.vercel.app/api?username=gunesbora_icons=true&theme=tokyonight" align='right' width="55%">
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boragunes/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gunsebora80@gmail.com)
-
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=gunesbora_icons=true&theme=tokyonight" align='right' width="55%">
 
 # Languages
 
