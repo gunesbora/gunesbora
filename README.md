@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning Front-End and Back-End
 - 📫 How to reach me gunesbora80@gmail.com
 
+## :fire: My Stats :
+                                                                        
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=gunesbora&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gunesbora&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunesbora&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boragunes/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gunsebora80@gmail.com)
 
